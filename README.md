@@ -51,6 +51,8 @@
     <img src="github-contribution-grid-snake-dark.svg" alt="Snake-dark">
   </p>
 </dir>
+
+<div class="tenor-gif-embed" data-postid="17294998899458747708" data-share-method="host" data-aspect-ratio="2.62105" data-width="100%"><a href="https://tenor.com/view/tech-world-gif-17294998899458747708">Tech World GIF</a>from <a href="https://tenor.com/search/tech+world-gifs">Tech World GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
 **Rahul-cmd1/Rahul-cmd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
