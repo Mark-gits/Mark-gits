@@ -1,7 +1,7 @@
-<div>
-<video src="Anime quotes inspirational.mp4" controls width="600"></video>
-</div>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi+there!+👋;I'm+Rajneesh+Kumar;Open+Source;Github+id:+Mark-gits)](https://git.io/typing-svg)
+<div>
+<video src="assets/Anime quotes inspirational.mp4" controls width="600"></video>
+</div>
 
 
 ## 🌐 Socials:
@@ -31,21 +31,21 @@
 
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
-<img src="log/parrot-evil.gif" height="70" width="70">
-<img src="log/parrot-evil.gif" height="70" width="70">
-<img src="log/parrot-evil.gif" height="70" width="70">
-<img src="log/parrot-evil.gif" height="70" width="70">
-<img src="log/parrot-evil.gif" height="70" width="70">
+<img src="assets/parrot-evil.gif" height="70" width="70">
+<img src="assets/parrot-evil.gif" height="70" width="70">
+<img src="assets/parrot-evil.gif" height="70" width="70">
+<img src="assets/parrot-evil.gif" height="70" width="70">
+<img src="assets/parrot-evil.gif" height="70" width="70">
 </p>
 
 ## ----
 
 <p align="Left">
-<img src="log/froge-rope.png" height="70" width="70">
-<img src="log/froge-rope.png" height="70" width="70">
-<img src="log/froge-rope.png" height="70" width="70">
-<img src="log/froge-rope.png" height="70" width="70">
-<img src="log/froge-rope.png" height="70" width="70">
+<img src="assets/froge-rope.png" height="70" width="70">
+<img src="assets/froge-rope.png" height="70" width="70">
+<img src="assets/froge-rope.png" height="70" width="70">
+<img src="assets/froge-rope.png" height="70" width="70">
+<img src="assets/froge-rope.png" height="70" width="70">
 </p>
 
 
