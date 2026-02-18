@@ -1,7 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi+there!+👋;I'm+Rajneesh+Kumar;Open+Source;Github+id:+Mark-gits)](https://git.io/typing-svg)
 <div>
 <video src="Anime quotes inspirational.mp4" controls width="600"></video>
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi+there!+👋;I'm+Rajneesh+Kumar;Open+Source;Github+id:+Mark-gits)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
